@@ -1,0 +1,10 @@
+name: Hello
+version: 1.0
+author: laurojr
+main: org.laurojr.helloworld.Main
+description: Our first minecraft spigot plugin!
+
+commands:
+  hello:
+    alias: [Anyeong!]
+    description: This is the hello command
